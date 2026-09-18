@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="English Foundations Hub">
+  <rect width="512" height="512" rx="112" fill="#1f6564"/>
+  <path d="M143 293c0-84 52-139 129-139 34 0 67 11 96 34v175c-29-19-60-28-94-28-52 0-94 19-131 54V293Z" fill="#f7f4ee"/>
+  <path d="M369 189c-29-22-62-35-96-35-77 0-130 55-130 139v96c37-35 79-54 131-54 34 0 65 9 94 28V189Z" fill="none" stroke="#d39940" stroke-width="18"/>
+  <circle cx="316" cy="250" r="20" fill="#d39940"/>
+</svg>
