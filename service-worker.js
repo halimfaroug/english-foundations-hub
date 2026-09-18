@@ -1,4 +1,4 @@
-const CACHE = 'english-foundations-hub-v3';
+const CACHE = 'english-foundations-hub-v4';
 const APP_SHELL = ['/', '/index.html', '/styles.css', '/data.js', '/app.js', '/manifest.webmanifest', '/icons/icon.svg', '/icons/apple-touch-icon.svg'];
 
 self.addEventListener('install', event => {
